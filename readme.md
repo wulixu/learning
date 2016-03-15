@@ -31,3 +31,7 @@ function fancy(arg){
     }
 }
 ```
+- [x] this is first task
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
