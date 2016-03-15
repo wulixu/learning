@@ -8,9 +8,14 @@ __this will be also bold__
 * Item 2
     * Item 2a
     * Item 2b
-1. Item 1
+1. One
 2. Item 2
     * Item 2a
+3. Item 3
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 ![github logo](http://troncell.com/images/logo_white.png)
 ## This is an  tag
 [TronCell](http://troncell.com)
@@ -36,4 +41,12 @@ function fancy(arg){
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-@wulixu
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+@wulixu - It's great.
+
+@william - It's great.
