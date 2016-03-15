@@ -2,6 +2,7 @@
 It's very easy to make some words **bold** and other words *italic* with markdown. You can even [link to google!](http://google.com).
 _this will be also italic_
 __this will be also bold__
+~~__this__~~
 
 * Item 1
 * Item 2
